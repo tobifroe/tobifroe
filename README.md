@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tobifroe/nixos-config](https://github.com/tobifroe/nixos-config) -  (today)
 - [tobifroe/nvim](https://github.com/tobifroe/nvim) - My AstroNvim based Neovim config (today)
 - [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously. (3 days ago)
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) -  (3 months ago)
@@ -9,6 +10,7 @@
 #### 🌱 My latest projects
 
 - [tobifroe/nvim](https://github.com/tobifroe/nvim) - My AstroNvim based Neovim config
+- [tobifroe/nixos-config](https://github.com/tobifroe/nixos-config) - 
 - [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously.
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) - 
 - [tobifroe/github-repo-lister](https://github.com/tobifroe/github-repo-lister) - Reads a Github PAT from a file, writes a list of repositories to env.
