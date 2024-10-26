@@ -2,21 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tobifroe/nvim](https://github.com/tobifroe/nvim) -  (today)
-- [tobifroe/klog](https://github.com/tobifroe/klog) -  (3 days ago)
+- [tobifroe/nvim](https://github.com/tobifroe/nvim) - My AstroNvim based Neovim config (today)
+- [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously. (3 days ago)
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) -  (3 months ago)
 
 #### 🌱 My latest projects
 
-- [tobifroe/nvim](https://github.com/tobifroe/nvim) - 
-- [tobifroe/klog](https://github.com/tobifroe/klog) - 
+- [tobifroe/nvim](https://github.com/tobifroe/nvim) - My AstroNvim based Neovim config
+- [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously.
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) - 
 - [tobifroe/github-repo-lister](https://github.com/tobifroe/github-repo-lister) - Reads a Github PAT from a file, writes a list of repositories to env.
-- [tobifroe/content-disposition-check](https://github.com/tobifroe/content-disposition-check) - 
 
 #### 🔭 Latest releases I've contributed to
 
-- [tobifroe/klog](https://github.com/tobifroe/klog) ([0.0.3](https://github.com/tobifroe/klog/releases/tag/0.0.3), 3 weeks ago) - 
+- [tobifroe/klog](https://github.com/tobifroe/klog) ([0.0.3](https://github.com/tobifroe/klog/releases/tag/0.0.3), 3 weeks ago) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously.
 
 #### 🔨 My recent Pull Requests
 
