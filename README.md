@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) -  (today)
 - [tobifroe/nixos-config](https://github.com/tobifroe/nixos-config) -  (1 day ago)
 - [tobifroe/nvim](https://github.com/tobifroe/nvim) - My AstroNvim based Neovim config (1 day ago)
 - [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously. (4 days ago)
-- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) -  (1 month ago)
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: move to coveralls gh action](https://github.com/tobifroe/starscraper/pull/21) on [tobifroe/starscraper](https://github.com/tobifroe/starscraper) (today)
+- [docs: add docs cmd, generate docs](https://github.com/tobifroe/starscraper/pull/19) on [tobifroe/starscraper](https://github.com/tobifroe/starscraper) (today)
 - [fix(gui): expand tildes for subdir check (fixes #9400)](https://github.com/syncthing/syncthing/pull/9788) on [syncthing/syncthing](https://github.com/syncthing/syncthing) (1 day ago)
 - [fix: typo](https://github.com/tobifroe/klog/pull/37) on [tobifroe/klog](https://github.com/tobifroe/klog) (2 weeks ago)
 - [feat: collect test coverage](https://github.com/tobifroe/klog/pull/35) on [tobifroe/klog](https://github.com/tobifroe/klog) (2 weeks ago)
-- [klog-rs: init at 0.0.3](https://github.com/NixOS/nixpkgs/pull/345863) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
-- [feat: add daemonset logging](https://github.com/tobifroe/klog/pull/25) on [tobifroe/klog](https://github.com/tobifroe/klog) (1 month ago)
 
 #### ⭐ Recent Stars
 
