@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) ([0.1.0](https://github.com/tobifroe/starscraper/releases/tag/0.1.0), today) - 
 - [tobifroe/klog](https://github.com/tobifroe/klog) ([0.0.3](https://github.com/tobifroe/klog/releases/tag/0.0.3), 3 weeks ago) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously.
-- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) ([0.0.3](https://github.com/tobifroe/starscraper/releases/tag/0.0.3), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
