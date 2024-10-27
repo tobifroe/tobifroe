@@ -5,6 +5,7 @@
 - [tobifroe/nixos-config](https://github.com/tobifroe/nixos-config) -  (1 day ago)
 - [tobifroe/nvim](https://github.com/tobifroe/nvim) - My AstroNvim based Neovim config (1 day ago)
 - [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously. (4 days ago)
+- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) -  (1 month ago)
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -13,11 +14,12 @@
 - [tobifroe/nixos-config](https://github.com/tobifroe/nixos-config) - 
 - [tobifroe/klog](https://github.com/tobifroe/klog) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously.
 - [tobifroe/tobifroe.github.io](https://github.com/tobifroe/tobifroe.github.io) - 
-- [tobifroe/github-repo-lister](https://github.com/tobifroe/github-repo-lister) - Reads a Github PAT from a file, writes a list of repositories to env.
+- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) - 
 
 #### 🔭 Latest releases I've contributed to
 
 - [tobifroe/klog](https://github.com/tobifroe/klog) ([0.0.3](https://github.com/tobifroe/klog/releases/tag/0.0.3), 3 weeks ago) - klog is a tool that allows you to tail logs of multiple Kubernetes pods simultaneously.
+- [tobifroe/starscraper](https://github.com/tobifroe/starscraper) ([0.0.3](https://github.com/tobifroe/starscraper/releases/tag/0.0.3), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
