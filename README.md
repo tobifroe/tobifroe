@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): add sonarcloud](https://github.com/tobifroe/starscraper/pull/22) on [tobifroe/starscraper](https://github.com/tobifroe/starscraper) (today)
 - [fix: move to coveralls gh action](https://github.com/tobifroe/starscraper/pull/21) on [tobifroe/starscraper](https://github.com/tobifroe/starscraper) (today)
 - [docs: add docs cmd, generate docs](https://github.com/tobifroe/starscraper/pull/19) on [tobifroe/starscraper](https://github.com/tobifroe/starscraper) (today)
 - [fix(gui): expand tildes for subdir check (fixes #9400)](https://github.com/syncthing/syncthing/pull/9788) on [syncthing/syncthing](https://github.com/syncthing/syncthing) (1 day ago)
 - [fix: typo](https://github.com/tobifroe/klog/pull/37) on [tobifroe/klog](https://github.com/tobifroe/klog) (2 weeks ago)
-- [feat: collect test coverage](https://github.com/tobifroe/klog/pull/35) on [tobifroe/klog](https://github.com/tobifroe/klog) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
