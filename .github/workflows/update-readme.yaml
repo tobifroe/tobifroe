@@ -1,28 +1,29 @@
-name: Update README
+name: GitHub-Profile-Summary-Cards
 
 on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   workflow_dispatch:
-  push:
-  schedule:
-    - cron: "0 */1 * * *"
 
 jobs:
-  markscribe:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@master
-      - uses: muesli/readme-scribe@master
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          USERNAME: ${{ github.repository_owner }}
+          # BRANCH_NAME is optional, default to main, branch name to push cards
+          BRANCH_NAME: "main"
+          # UTC_OFFSET is optional, default to zero
+          UTC_OFFSET: 8
+          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
+          EXCLUDE: ""
+          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
+          AUTO_PUSH: true
